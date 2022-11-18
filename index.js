@@ -23,7 +23,7 @@ setInterval(() => {
 function createBot () {
 const bot = mineflayer.createBot({
   host: 'DevilCrusHeR.aternos.me', 
-  version: 1.19.2, 
+  version: 1.18.2, 
   username: MADEBYNARUTO', 
   port: 42201, 
   plugins: [AutoAuth],
